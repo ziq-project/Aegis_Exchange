@@ -1,7 +1,8 @@
 ## Interface: 11200
 ## Title: Aegis: Exchange - fork for Projekt Legacy
+## Author: Fork for Project Legacy by Ziq
 ## Notes: Clean auction house helper
-## Version: 1.51.1
+## Version: 1.51.2
 ## SavedVariables: AegisExchangeDB
 ## SavedVariablesPerCharacter: AegisExchangeCharDB
 
