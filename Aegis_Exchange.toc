@@ -1,0 +1,17 @@
+## Interface: 11200
+## Title: Aegis: Exchange - fork for Projekt Legacy
+## Notes: Clean auction house helper
+## Version: 1.51.1
+## SavedVariables: AegisExchangeDB
+## SavedVariablesPerCharacter: AegisExchangeCharDB
+
+core\init.lua
+core\util.lua
+core\db.lua
+core\disenchant.lua
+core\scan.lua
+core\sell.lua
+core\buy.lua
+ui\frame.lua
+ui\skin.lua
+ui\tooltip.lua
