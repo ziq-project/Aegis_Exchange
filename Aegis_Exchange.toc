@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: Aegis: Exchange - fork for Projekt Legacy
+## Title: Aegis: Exchange |cff7fff7f - Project Legacy|r
 ## Author: Fork for Project Legacy by Ziq
 ## Notes: Clean auction house helper
 ## Version: 1.51.2
